@@ -18,7 +18,9 @@ ChatGPT
 
 2. *"Podrías resumirme este texto en 600 palabras aproximadamente? '…texto…' "*
 
-> **NOTA:** Decidí agregarle al prompt lo siguiente ya que noté que era muy extenso y luego de pedirle que cuente las palabras me enteré que el articulo original tenía 699 palabras. También, para divertirme, hice un programa en Python para contar las palabras 😺.
+> **NOTA:** Decidí agregarle al prompt lo siguiente ya que noté que era muy extenso y luego de pedirle que cuente las palabras me enteré que el articulo original tenía 699 palabras. También, para divertirme, hice un programa en **Python** para contar las palabras 😺.
+
+![Codigo](https://github.com/mikelapro/contador-palabras/blob/c82fd6eb6139af8cb786da92a978a7a6989fe580/codigo.jpg)
 
 3. *"por favor, resúmelo a 300 palabras y en un lenguaje menos técnico para un trabajo escolar"*
 

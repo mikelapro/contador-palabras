@@ -20,7 +20,7 @@ ChatGPT
 
 > **NOTA:** Decidí agregarle al prompt lo siguiente ya que noté que era muy extenso y luego de pedirle que cuente las palabras me enteré que el articulo original tenía 699 palabras. También, para divertirme, hice un programa en `Python` para contar las palabras 😺.
 
-https://github.com/mikelapro/contador-palabras/blob/c82fd6eb6139af8cb786da92a978a7a6989fe580/codigo.jpg
+[Ver código...](https://github.com/mikelapro/contador-palabras/blob/main/main.py)
 
 ![Codigo](https://github.com/mikelapro/contador-palabras/blob/c82fd6eb6139af8cb786da92a978a7a6989fe580/codigo.jpg)
 

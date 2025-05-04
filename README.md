@@ -6,7 +6,7 @@ SpaceX, de Elon Musk, logra un hito: recuperar en vuelo el propulsor de su megac
 
 
 ### Fuente
-[https://www.elespectador.com/ciencia/spacex-de-elon-musk-logra-un-hito-recuperar-en-vuelo-el-propulsor-de-su-megacohete/](https://www.elespectador.com/ciencia/spacex-de-elon-musk-logra-un-hito-recuperar-en-vuelo-el-propulsor-de-su-megacohete/)
+<a href="https://www.elespectador.com/ciencia/spacex-de-elon-musk-logra-un-hito-recuperar-en-vuelo-el-propulsor-de-su-megacohete/" target="_blank">https://www.elespectador.com/ciencia/spacex-de-elon-musk-logra-un-hito-recuperar-en-vuelo-el-propulsor-de-su-megacohete/</a>
 
 ## AI usada
 ChatGPT
@@ -20,7 +20,7 @@ ChatGPT
 
 > **NOTA:** Decidí agregarle al prompt lo siguiente ya que noté que era muy extenso y luego de pedirle que cuente las palabras me enteré que el articulo original tenía 699 palabras. También, para divertirme, hice un programa en `Python` para contar las palabras 😺.
 
-[Ver código...](https://github.com/mikelapro/contador-palabras/blob/main/main.py)
+<a href="https://github.com/mikelapro/contador-palabras/blob/main/main.py" target="_blank">Ver código...</a>
 
 ![Codigo](https://github.com/mikelapro/contador-palabras/blob/c82fd6eb6139af8cb786da92a978a7a6989fe580/codigo.jpg)
 

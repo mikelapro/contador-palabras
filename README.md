@@ -11,14 +11,16 @@ SpaceX, de Elon Musk, logra un hito: recuperar en vuelo el propulsor de su megac
 ## AI usada
 ChatGPT
 
-## Historial del prompt
+## Historial del prompt usado
 1. *"Podrías resumirme este artículo en 600 o 700 palabras?* [https://www.elespectador.com/ciencia/spacex-de-elon-musk-logra-un-hito-recuperar-en-vuelo-el-propulsor-de-su-megacohete/](https://www.elespectador.com/ciencia/spacex-de-elon-musk-logra-un-hito-recuperar-en-vuelo-el-propulsor-de-su-megacohete/)"
     
 > **NOTA:** Decidí reescribirlo ya que mezclaba información de otras fuentes, y luego de pedirle que busque solo en esa fuente me sugirió copiar el texto del articulo y copiarlo en el prompt directamente.
 
 2. *"Podrías resumirme este texto en 600 palabras aproximadamente? '…texto…' "*
 
-> **NOTA:** Decidí agregarle al prompt lo siguiente ya que noté que era muy extenso y luego de pedirle que cuente las palabras me enteré que el articulo original tenía 699 palabras. También, para divertirme, hice un programa en **Python** para contar las palabras 😺.
+> **NOTA:** Decidí agregarle al prompt lo siguiente ya que noté que era muy extenso y luego de pedirle que cuente las palabras me enteré que el articulo original tenía 699 palabras. También, para divertirme, hice un programa en `Python` para contar las palabras 😺.
+
+https://github.com/mikelapro/contador-palabras/blob/c82fd6eb6139af8cb786da92a978a7a6989fe580/codigo.jpg
 
 ![Codigo](https://github.com/mikelapro/contador-palabras/blob/c82fd6eb6139af8cb786da92a978a7a6989fe580/codigo.jpg)
 
